@@ -1,4 +1,4 @@
-# Isabella's Homepage
+# Isabella Avila
 
 Welcome to my GitHub Pages site! Here you'll find updates on my projects, coursework, and more.
 
